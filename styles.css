@@ -1,5 +1,10 @@
 body{ 
   color: white;
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
   background: rgb(114, 114, 228);
 }
 header {
@@ -26,3 +31,4 @@ h1{
 p{
   font-size: 20px;
 }
+
